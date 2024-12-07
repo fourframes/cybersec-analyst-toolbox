@@ -1,4 +1,4 @@
-# cybersec-toolbox
+# cybersec-analyst-toolbox
 
 A collection of cybersecurity tools and resources that I've used or found valuable during my cyber security analyst training.
 
