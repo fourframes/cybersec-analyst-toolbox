@@ -3,6 +3,19 @@
 A collection of cybersecurity tools and resources that I've used or found valuable during my cyber security analyst training.
 *Entries in italic are added / changed*.
 
+- [cybersec-analyst-toolbox](#cybersec-analyst-toolbox)
+  - [Tools \& Frameworks](#tools--frameworks)
+    - [Frameworks \& Threat Intelligence](#frameworks--threat-intelligence)
+    - [Network Security](#network-security)
+    - [Endpoint Security \& SIEM](#endpoint-security--siem)
+    - [DFIR](#dfir)
+    - [Sandboxes](#sandboxes)
+    - [Phishing \& Mails](#phishing--mails)
+    - [Miscellaneous](#miscellaneous)
+    - [Pentesting](#pentesting)
+  - [Regex](#regex)
+  - [SIEM Queries](#siem-queries)
+
 ## Tools & Frameworks
 
 ### Frameworks & Threat Intelligence
