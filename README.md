@@ -108,7 +108,6 @@ A collection of cybersecurity tools and resources that I've used or found valuab
 
 | Tool            | Website                                              | Description                                                                                        |
 | --------------- | ---------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
-| Cuckoo Sandbox  | <https://cuckoosandbox.org/>                         | Open-source automated malware analysis system for dynamic analysis of suspicious files and URLs.   |
 | CAPE Sandbox    | <https://capev2.readthedocs.io/en/latest/index.html> | Malware analysis sandbox focused on unpacking and analyzing malicious payloads and executables.    |
 | Any.run         | <https://any.run/>                                   | Interactive online malware sandbox allowing real-time analysis of suspicious files and activities. |
 | Hybrid Analysis | <https://www.hybrid-analysis.com/>                   | Free malware analysis service powered by Falcon Sandbox for static and dynamic threat analysis.    |
